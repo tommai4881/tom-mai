@@ -1,4 +1,4 @@
-program firstgithubpost
+program firstgithubpost;
 uses crt;
 
 begin
